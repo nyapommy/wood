@@ -4,5 +4,5 @@ im constantly updating it,
 if you find any bugs tell me,
 have fun
 
-developer = giganlak
+developer = giganlak,
 icon_creator = darkitxu
