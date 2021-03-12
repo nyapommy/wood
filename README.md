@@ -5,4 +5,4 @@ if you find any bugs tell me,
 have fun
 
 developer = giganlak,
-icon_creator = darkitxu
+icon_creator = darkitxu84
