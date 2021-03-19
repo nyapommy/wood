@@ -1,8 +1,10 @@
 # wood
-this is a text game im making in python,
-im constantly updating it,
-if you find any bugs tell me,
-have fun
+this is a text game im making in python that im constantly updating,
+if you find any bugs report them in the issues section
+you can also join our discord using this link: https://discord.gg/ayqNrnQ47q
 
-developer = giganlak,
-icon_creator = darkitxu84
+credits:
+
+giganlak,
+darkitxu84,
+ConaII
