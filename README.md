@@ -6,3 +6,5 @@ Credits to:
 giganlak, darkitxu84, ConaII, ZedDee, Hazext
 
 Download the Wood Save Converter here: https://github.com/giganlak/wood-save-converter/releases/latest
+
+Latest release is Wood 1.32snap4
