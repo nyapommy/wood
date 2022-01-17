@@ -1,5 +1,5 @@
 # Wood
-A survival text game where you chop down trees, mine in caves, sell stuff, buy stuff, upgrade your tools, etc
+A survival text game where you chop down trees, mine in caves, sell stuff, buy stuff, upgrade your tools, forge items, travel to places, and much more.
 
 Credits to:
 
