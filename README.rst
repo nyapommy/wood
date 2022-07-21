@@ -1,6 +1,6 @@
-.. image:: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/wood.png?size=32
-   :target: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/wood.png?size=32
+.. image:: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/logo.png
    :alt: wood_logo
+   :align: center
 
 ------------
 
@@ -18,6 +18,9 @@ JOIN THE DISCORD SERVER (Español/Spanish): https://discord.gg/d4aSTD3TSC
 ------------
 
 
-.. image:: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/save_converter.png?size=32
-   :target: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/save_converter.png?size=32
-   :alt: wsc_logo
+.. .. image:: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/save_converter.png?size=32
+..   :alt: wsc_logo
+.. ------------
+.. Wood Save Converter
+.. ---------------------------------
+.. Download the Wood Save Converter here: https://github.com/giganlak/wood-save-converter/releases/latest
