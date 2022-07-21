@@ -1,5 +1,5 @@
-.. image:: https://raw.githubusercontent.com/ConaII/woodRewritten/main/storage/icons/wood.png?token=GHSAT0AAAAAABQ52KJPCGHRMRX727E4B2MCYSB722A
-   :target: https://raw.githubusercontent.com/ConaII/woodRewritten/main/storage/icons/wood.png?token=GHSAT0AAAAAABQ52KJPCGHRMRX727E4B2MCYSB722A
+.. image:: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/wood.png
+   :target: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/wood.png
    :alt: wood_logo
 
 ------------
@@ -18,9 +18,9 @@ JOIN THE DISCORD SERVER (Español/Spanish): https://discord.gg/d4aSTD3TSC
 ------------
 
 
-.. image:: https://raw.githubusercontent.com/ConaII/woodRewritten/main/storage/icons/wood.png?token=GHSAT0AAAAAABQ52KJPCGHRMRX727E4B2MCYSB722A
-   :target: https://raw.githubusercontent.com/ConaII/woodRewritten/main/storage/icons/wood.png?token=GHSAT0AAAAAABQ52KJPCGHRMRX727E4B2MCYSB722A
-   :alt: wood_logo
+.. image:: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/save_converter.png
+   :target: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/save_converter.png
+   :alt: wsc_logo
 
 ------------
 Wood Save Converter
