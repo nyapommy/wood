@@ -21,8 +21,3 @@ JOIN THE DISCORD SERVER (Español/Spanish): https://discord.gg/d4aSTD3TSC
 .. image:: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/save_converter.png
    :target: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/save_converter.png
    :alt: wsc_logo
-
-------------
-Wood Save Converter
----------------------------------
-Download the Wood Save Converter here: https://github.com/giganlak/wood-save-converter/releases/latest
