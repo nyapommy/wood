@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/logo.png"/>
 </p>
 
-Wood 
+Wood Game
 ---------------------------------
 
 **Itch.io:** https://giganlak.itch.io/wood
