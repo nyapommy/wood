@@ -6,7 +6,7 @@
 Wood Game
 ---------------------------------
 
-**Itch.io:** https://giganlak.itch.io/wood
+**Itch.io:** https://nyapommy.itch.io/wood
 
 *A survival text game where you can explore areas, obtain resources, sell and buy goods, unlock new areas, obtain ores in the mine, build structures, forge items, upgrade your tools and much more.*
 
