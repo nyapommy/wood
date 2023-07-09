@@ -12,6 +12,6 @@ Wood Game
 
 ------------
 
-**Credits:** [@giganlak]( https://github.com/giganlak ) [@darkitxu84]( https://github.com/darkitxu84 ) [@ConaII]( https://github.com/ConaII )
+**Credits:** [@nyapommy]( https://github.com/nyapommy ) [@darkitxu84]( https://github.com/darkitxu84 ) [@ConaII]( https://github.com/ConaII )
 
 **Discord Server:** https://discord.gg/d4aSTD3TSC (SPANISH)
