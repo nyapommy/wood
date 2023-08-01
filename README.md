@@ -4,14 +4,14 @@
 </p>
 
 Wood Game
----------------------------------
+---
 
 **Itch.io:** https://nyapommy.itch.io/wood
 
 *A survival text game where you can explore areas, obtain resources, sell and buy goods, unlock new areas, obtain ores in the mine, build structures, forge items, upgrade your tools and much more.*
 
-------------
+---
 
-**Credits:** [@nyapommy]( https://github.com/nyapommy ) [@darkitxu84]( https://github.com/darkitxu84 ) [@ConaII]( https://github.com/ConaII )
+**Credits:** [@nyapommy]( https://github.com/nyapommy ) [@LcyDev]( https://github.com/LcyDev ) [@darkitxu84]( https://github.com/darkitxu84 )
 
 **Discord Server:** https://discord.gg/d4aSTD3TSC (SPANISH)
