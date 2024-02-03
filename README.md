@@ -14,4 +14,4 @@ Wood Game
 
 **Credits:** [@nyapommy]( https://github.com/nyapommy ) [@LcyDev]( https://github.com/LcyDev ) [@darkitxu84]( https://github.com/darkitxu84 )
 
-**Discord Server:** https://discord.gg/d4aSTD3TSC (SPANISH)
+**Discord Server:** https://discord.gg/dmHZGZp2vH (SPANISH)
