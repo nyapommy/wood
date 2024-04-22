@@ -50,17 +50,21 @@ It offers a significantly enhanced, optimized and largely rewritten codebase, al
 **Game Creator:** [@nyapommy][nyapommy] \
   The creator of the original Wood concept.
   
-  `Very much appreciated direction guidance and their efforts to develop and implement new game features. We also appreciate their contribution for making the game's soundtracks.`
+  `Very much appreciated direction guidance and their efforts to develop and implement new game features.` \
+  `We also appreciate their contribution for making the game's soundtracks.`
 
 **Head Programmer:** [@LcyDev][LcyDev] \
   The leader in the development of woodRewritten.
   
-  `A big thanks for leading the development efforts and significantly rewriting the codebase. Their dedication and expertise in code optimization & refactoring has been instrumental in the project's success.`
+  `A big thanks for leading the development efforts and significantly rewriting the codebase.` \
+  `Their dedication and expertise in code optimization & refactoring has been instrumental in the project's success.`
 
 **Tech Developer:** [@darkitxu84][darkitxu84] \
   Contributor of specialiced features and more.
   
-  `Big appreciation for their invaluable contributions as tech developer. Their dedication to thorough beta testing, and code bug fixing have been essential to the project's quality. We also appreciate the icon and logo designs.`
+  `Big appreciation for their invaluable contributions as tech developer.` \
+  `Their dedication to thorough beta testing, and code bug fixing have been essential to the project's quality` \
+  `We also appreciate the icon and logo designs.`
 </div>
 
 [//]: # (Other)
