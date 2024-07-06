@@ -68,20 +68,19 @@ It offers a significantly enhanced, optimized and largely rewritten codebase, al
 </div>
 
 [//]: # (Other)
-
-[Banner]: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/logo.png
+  [Banner]: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/logo.png
 
 [//]: # (Socials)
-[Discord]: https://discord.gg/dmHZGZp2vH
-[Reddit]: N/A
-[Twitter]: N/A
-[Youtube]: N/A
+  [Discord]: https://discord.gg/dmHZGZp2vH
+  [Reddit]: N/A
+  [Twitter]: N/A
+  [Youtube]: N/A
 
 [//]: # (Links)
-[GitHub]: https://github.com/nyapommy/wood
-[itch.io]: https://nyapommy.itch.io/wood
+  [GitHub]: https://github.com/nyapommy/wood
+  [itch.io]: https://nyapommy.itch.io/wood
 
 [//]: # (Contributors)
-[nyapommy]: https://github.com/nyapommy
-[LcyDev]: https://github.com/LcyDev
-[darkitxu84]: https://github.com/darkitxu84
+  [nyapommy]: https://github.com/nyapommy
+  [LcyDev]: https://github.com/LcyDev
+  [darkitxu84]: https://github.com/darkitxu84
