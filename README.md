@@ -13,6 +13,8 @@ by [@nyapommy][nyapommy], [@LcyDev][LcyDev], [@darkitxu84][darkitxu84].
 
 <div align=center>
 
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
+
 # Wood Game
 </div>
 
