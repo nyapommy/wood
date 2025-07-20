@@ -6,7 +6,9 @@
 
 by [@nyapommy][nyapommy], [@LcyDev][LcyDev], [@darkitxu84][darkitxu84].
 
-## [Discord][Discord] &bullet; [Itch.io][itch.io] &bullet; [Git Releases](https://github.com/nyapommy/wood/releases)
+[![](https://dcbadge.limes.pink/api/server/dmHZGZp2vH)][Discord]
+
+[![](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)][itch.io] [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][Releases]
 </div>
 
 * * *
@@ -81,6 +83,7 @@ aluable contributions as tech developer.` \
 
 [//]: # (Links)
   [GitHub]: https://github.com/nyapommy/wood
+  [Releases]: https://github.com/nyapommy/wood/releases
   [itch.io]: https://nyapommy.itch.io/wood
 
 [//]: # (Contributors)
