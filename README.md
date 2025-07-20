@@ -66,8 +66,8 @@ It offers a significantly enhanced, optimized and largely rewritten codebase, al
   
   `Big appreciation for their inv
 aluable contributions as tech developer.` \
-  `Their dedication to thorough beta testing, and code bug fixing have been essential to the project's quality` \
-  `We also appreciate the icon and logo designs.`
+  `Their dedication to beta testing, and code bug fixing has been essential to the project's quality` \
+  `We also appreciate his icon and logo designs.`
 </div>
 
 [//]: # (Other)
