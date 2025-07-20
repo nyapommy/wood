@@ -2,20 +2,20 @@
 
 [![Banner]](https://github.com/nyapommy/wood)
 
+* * *
+
+[![](https://m3-markdown-badges.vercel.app/issues/1/1/nyapommy/wood)][Issues]
+[![](https://m3-markdown-badges.vercel.app/stars/3/3/nyapommy/wood)][GitHub]
+
 ### A survival text game where you can explore areas, obtain resources, sell and buy goods, unlock new areas, obtain ores in the mine, build structures, forge items, upgrade your tools and much more.
 
 by [@nyapommy][nyapommy], [@LcyDev][LcyDev], [@darkitxu84][darkitxu84].
 
+
 [![](https://dcbadge.limes.pink/api/server/dmHZGZp2vH)][Discord]
 
-[![](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)][itch.io] [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][Releases]
-</div>
-
-* * *
-
-<div align=center>
-
-[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
+[![](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)][itch.io]
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][Releases]
 
 # Wood Game
 </div>
@@ -66,26 +66,23 @@ It offers a significantly enhanced, optimized and largely rewritten codebase, al
 **Tech Developer:** [@darkitxu84][darkitxu84] \
   Developer of specialiced features and more.
   
-  `Big appreciation for their inv
-aluable contributions as tech developer.` \
+  `Big appreciation for their invaluable contributions as tech developer.` \
   `Their dedication to beta testing, and code bug fixing has been essential to the project's quality` \
   `We also appreciate his icon and logo designs.`
 </div>
 
 [//]: # (Other)
   [Banner]: https://raw.githubusercontent.com/giganlak/wood/main/assets/icons/logo.png
-
 [//]: # (Socials)
   [Discord]: https://discord.gg/dmHZGZp2vH
   [Reddit]: N/A
   [Twitter]: N/A
   [Youtube]: N/A
-
 [//]: # (Links)
-  [GitHub]: https://github.com/nyapommy/wood
-  [Releases]: https://github.com/nyapommy/wood/releases
   [itch.io]: https://nyapommy.itch.io/wood
-
+  [GitHub]: https://github.com/nyapommy/wood
+  [Issues]: https://github.com/nyapommy/wood/issues
+  [Releases]: https://github.com/nyapommy/wood/releases
 [//]: # (Contributors)
   [nyapommy]: https://github.com/nyapommy
   [LcyDev]: https://github.com/LcyDev
